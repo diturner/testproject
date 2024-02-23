@@ -1,0 +1,14 @@
+{
+	"workbench.colorCustomizations": {
+		"statusBar.background": "#43d704a5",
+		"statusBar.noFolderBackground": "#336600",
+		"statusBar.debuggingBackground": "#ffaa00",
+		"editor.selectionBackground": "#ccee0066",
+		"editor.selectionHighlightBackground": "#ccee0066",
+		"terminal.ansiRed": "#ff5a00",
+		"terminal.ansiBrightRed": "#ff5a00",
+		"activityBar.background": "#272C45",
+		"titleBar.activeBackground": "#373D60",
+		"titleBar.activeForeground": "#FCFCFD"
+	}
+}
